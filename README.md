@@ -78,6 +78,3 @@ Başkalarının da bulmasına yardımcı olur.
 
 ---
 
-<p align="center">
-  Dağıtık sistemleri anlamak isteyenler için ❤️ ile hazırlandı
-</p>
